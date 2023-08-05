@@ -1,4 +1,4 @@
-package model;
+package com.sunbasedata.customermanagement.customermanagementapp.model;
 
 import lombok.Data;
 

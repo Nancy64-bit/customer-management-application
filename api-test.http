@@ -1,10 +1,7 @@
-### Authentication API - POST Request with Basic Authentication ###
-
-POST http://localhost:your_port_number/authenticate
-Authorization: Basic dGVzdEBzdW5iYXNlZGF0YS5jb206VGVzdEAxMjM=
+POST https://qa2.sunbasedata.com/sunbase/portal/api/assignment_auth.jsp
 Content-Type: application/json
 
 {
-  "login_id": "test@sunbasedata.com",
-  "password": "Test@123"
+    "login_id": "test@sunbasedata.com",
+    "password": "Test@123"
 }

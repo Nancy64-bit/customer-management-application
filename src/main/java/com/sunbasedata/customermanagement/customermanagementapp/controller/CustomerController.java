@@ -1,8 +1,8 @@
-package controller;
+package com.sunbasedata.customermanagement.customermanagementapp.controller;
 
 import org.springframework.web.bind.annotation.*;
 
-import model.Customer;
+import com.sunbasedata.customermanagement.customermanagementapp.model.Customer;
 
 import java.util.ArrayList;
 import java.util.List;
