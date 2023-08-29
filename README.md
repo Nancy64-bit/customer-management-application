@@ -168,4 +168,4 @@ curl -X POST -H "Authorization: Bearer token_recieved_in_authentication_API_call
 curl -X POST -H "Content-Type: application/json" -H "Authorization: Bearer token_recieved_in_authentication_API_call" -d '{"first_name": "Jane", "last_name": "Doe", "street": "Elvnu Street", "address": "H no 2", "city": "Delhi", "state": "Delhi", "email": "sam@gmail.com", "phone": "12345678"}' https://qa2.sunbasedata.com/sunbase/portal/api/assignment.jsp?cmd=update&uuid=uuid_of_a_specific_customer
 ```
 
-Feel free to customize and enhance this markdown file according to your project's needs. Good luck with your integration! 🚀🔧🎈
+Feel free to contact me if you want to work on any open issues! 🚀🔧🎈
