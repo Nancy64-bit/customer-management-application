@@ -137,16 +137,6 @@ Update an existing customer's information using this API.
   - Failure: 500, UUID not found
   - Failure: 400, Body is Empty
 
-## UI Integration
-
-To integrate the APIs into your application, follow these basic steps:
-
-1. Create a basic UI using HTML. A simple HTML table, form, and buttons will suffice.
-2. Design three screens:
-   - **Login Screen**: Allow users to log in and obtain the Bearer token.
-   - **Customer List Screen**: Display the list of customers.
-   - **Add New Customer Screen**: Enable the creation of new customers, deletion, and updating of existing ones.
-
 ## Testing with cURL
 
 You can use cURL commands to test the API endpoints:
